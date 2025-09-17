@@ -194,96 +194,6 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           SliverToBoxAdapter(child: SizedBox(height: 30)),
           // Hot Offers section
-// عنوان القسم
-// SliverToBoxAdapter(
-//   child: Padding(
-//     padding: const EdgeInsets.symmetric(horizontal: 20),
-//     child: Row(
-//       mainAxisAlignment: MainAxisAlignment.center,
-//       children: [
-//         Text(
-//           "${S.of(context).hotOffers} 🔥", // استخدمنا الترجمة هنا
-//           style: const TextStyle(
-//             fontSize: 22,
-//             fontWeight: FontWeight.bold,
-//           ),
-//         ),
-//       ],
-//     ),
-//   ),
-// ),
-
-// SliverToBoxAdapter(child: SizedBox(height: 10)),
-
-// // القائمة
-// SliverPadding(
-//   padding: const EdgeInsets.symmetric(horizontal: 20),
-//   sliver: SliverList(
-//     delegate: SliverChildBuilderDelegate(
-//       (context, index) {
-//         // استدعاء النصوص المترجمة لكل عرض
-//         String offerText;
-//         switch (index) {
-//           case 0:
-//             offerText = S.of(context).hotOffer1;
-//             break;
-//           case 1:
-//             offerText = S.of(context).hotOffer2;
-//             break;
-//           case 2:
-//             offerText = S.of(context).hotOffer3;
-//             break;
-//           case 3:
-//             offerText = S.of(context).hotOffer4;
-//             break;
-//           case 4:
-//             offerText = S.of(context).hotOffer5;
-//             break;
-//           default:
-//             offerText = "";
-//         }
-
-//         return Container(
-//           margin: const EdgeInsets.only(bottom: 12),
-//           height: 80,
-//           decoration: BoxDecoration(
-//             borderRadius: BorderRadius.circular(12),
-//             color: Colors.grey.withOpacity(0.1),
-//           ),
-//           child: Row(
-//             children: [
-//               ClipRRect(
-//                 borderRadius: const BorderRadius.horizontal(
-//                   left: Radius.circular(12),
-//                 ),
-//                 child: Image.asset(
-//                   HotOffersSection.hotOfferImages[index],
-//                   width: 80,
-//                   height: 80,
-//                   fit: BoxFit.cover,
-//                 ),
-//               ),
-//               Expanded(
-//                 child: Padding(
-//                   padding: const EdgeInsets.symmetric(horizontal: 12),
-//                   child: Text(
-//                     offerText,
-//                     style: const TextStyle(
-//                       fontSize: 16,
-//                       fontWeight: FontWeight.bold,
-//                       fontFamily: "Suwannaphum", // ضفنا fontFamily
-//                     ),
-//                   ),
-//                 ),
-//               ),
-//             ],
-//           ),
-//         );
-//       },
-//       childCount: HotOffersSection.hotOfferImages.length,
-//     ),
-//   ),
-// ),
 
           
           SliverToBoxAdapter(
@@ -315,3 +225,4 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       );
 }
+
