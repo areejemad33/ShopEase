@@ -1,0 +1,166 @@
+
+{
+  "home": "Home",
+  "favorite": "Favorite",
+  "profile": "Profile",
+  "aboutUs": "About Us",
+  "aboutUsContent": "Welcome to ShopEase 🛍️\n\nShopEase is your trusted shopping companion, designed to make online shopping smarter, faster, and easier.\n\n✨ What makes us unique?\n- A wide range of products carefully categorized for your convenience.\n- Easy navigation and modern design that ensures a smooth user experience.\n- Secure and reliable checkout process for your peace of mind.\n- Wishlist and Favorites feature so you never lose track of what you love.\n- Personalized recommendations to help you discover the best deals.\n\n💡 Our Mission:\nTo bring you a seamless shopping experience that combines variety, affordability, and security — all in one place.\n\n🌍 Our Vision:\nTo become the go-to shopping platform for millions of users who value simplicity and trust.\n\nThank you for choosing ShopEase, your smart shopping companion. We’re here to make every shopping experience a joy! 💜",
+
+  "contactUs": "Contact Us",
+  "contactUsContent": "📧 Email: support@shopease.com\n📞 Phone: +20 15677",
+  "settings": "Settings",
+  "help": "Help / FAQ",
+  "faq1": "Q: How to add items to favorites?",
+  "faq1Ans": "A: Tap the heart icon on the product to add it to your favorites.\n",
+  "faq2": "Q: How to place an order?",
+  "faq2Ans": "A: Go to your cart and tap 'Checkout'.\n",
+  "faq3": "Q: How to change profile picture?",
+  "faq3Ans": "A: Go to Profile page and tap the edit icon on your avatar.\n",
+  "faq4": "Q: Contact support?",
+  "faq4Ans": "A: Tap Contact Us in the drawer.\n",
+  "close": "Close",
+  "logout": "Logout",
+  
+  "chooseLanguage": "Choose Language",
+  
+  "welcomeBack": "Welcome Back 👋",
+  "loginSubtitle": "Login to continue shopping with us",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "signUp": "SignUp",
+  "noAccount": "Don’t have an account?",
+  "loginSuccess": "✅ You are logged in",
+  "loginFailed": "❌ Wrong email or password",
+  "signupTitle": "Create Account",
+  "signupSubtitle": "Sign up to start shopping with us",
+  "fullName": "Full Name",
+  "nameRequired": "Name is required",
+
+  "emailRequired": "Email is required",
+  "invalidEmail": "Enter a valid email address",
+  
+  "passwordRequired": "Password is required",
+  "passwordMinLength": "Password must be at least 8 characters",
+  "passwordUppercase": "Password must contain at least one uppercase letter",
+  "passwordLowercase": "Password must contain at least one lowercase letter",
+  "passwordNumber": "Password must contain at least one number",
+  "passwordSpecialChar": "Password must contain at least one special character (!@#$&*~%^)", 
+  "confirmPassword": "Confirm Password",
+  "confirmPasswordRequired": "Confirm your password",
+  "passwordsDoNotMatch": "Passwords do not match",
+
+  "accountCreated": "🎉 Account Created Successfully",
+  "alreadyHaveAccount": "Already have an account?",
+  
+  "skip": "Skip",
+
+  "discoverProducts": "Discover amazing products easily!",
+
+
+  "ourProducts": "Our Products",
+  "allProducts": "All Products",
+  "jackets": "Jackets",
+  "sneakers": "Sneakers",
+  
+  "currency": "EGP",
+  "productDetails": "Product Details",
+  "availableSize": "Available Size",
+  "addToCart": "Add to Cart",
+  "pleaseSelectSize": "Please select a size first",
+  "outOfStock": "Sorry, size {size} is out of stock",
+  "@@locale": "en",
+  "guest": "Guest",
+
+  "chooseFromGallery": "Choose from Gallery",
+  "takePhoto": "Take a Photo",
+  "edit": "Edit",
+  "enterNew": "Enter new",
+  "cancel": "Cancel",
+  "save": "Save",
+  "name": "Name",
+
+  "editPassword": "Edit Password",
+  "newPassword": "New Password",
+  "passwordMin8": "Password must be at least 8 characters long.",
+
+  "passwordUpdated": "Password updated successfully ✅",
+  "myOrders": "My Orders",
+  "pleaseLoginFirst": "Please login first",
+   "myCart": "My Cart",
+  "delete": "Delete",
+  
+  "size": "Size",
+  "checkOut": "Check Out",
+  "yourFavoriteProducts": "Your favorite products",
+  "noFavoritesYet": "No favorites yet.",
+  "checkout": "Checkout",
+  "almostDone": "Almost done! Just enter your info",
+
+  "phoneNumber": "Phone Number",
+  "address": "Address",
+  "paymentMethod": "Payment Method",
+  "cashOnDelivery": "Cash on Delivery",
+  "creditCard": "Credit Card",
+  "orderSummary": "Order Summary",
+  "subtotal": "Subtotal",
+  "delivery": "Delivery",
+  "total": "Total",
+  "placeOrder": "Place Order",
+  "notEnoughQuantity": "Not enough quantity for {product} size {size}",
+  "orderPlaced": "Order Placed Successfully!",
+  "fillAllFields": "Please fill all fields",
+
+  "invalidPhone": "Phone number must be at most 11 digits",
+  "cartEmpty" : "No items yet in the Cart",
+
+  "noOrdersYet": "No orders yet.",
+  "order": "Order",
+
+  "phone": "Phone",
+
+  "payment": "Payment",
+  "items": "Items",
+
+  "quantity": "Qty",
+  "price": "Price",
+
+  "date": "Date",
+    
+  "welcomeToApp": "Welcome to ShopEase!",
+  "page1Description": "Enjoy a complete shopping experience with seamless browsing, easy checkout, and fast delivery.",
+  "page2Title": "Discover Amazing Products Easily!",
+"page2Description": "Browse through thousands of categories and find the latest trends in fashion. Enjoy a personalized experience tailored just for you, with hot offers you can't miss.",
+  "fastCheckout": "Fast and secure checkout process!",
+  "page3Description": "Enjoy a smooth shopping experience with safe payments & fast delivery to your door.",
+  "getStarted": "Get Started",
+  "nameUppercase": "First letter must be uppercase",
+"success": "Success",
+"passwordTooShort": "Password must be at least 6 characters",
+
+  "hotOffers": "Hot Offers",
+   "hotOffer1Title": "Summer Sale",
+  "hotOffer1Subtitle": "Up to 50% off on selected items!",
+  
+  "hotOffer2Title": "New Arrivals",
+  "hotOffer2Subtitle": "Check out our latest collection.",
+  
+  "hotOffer3Title": "Flash Deals",
+  "hotOffer3Subtitle": "Limited-time offers every day!",
+  
+  "hotOffer4Title": "Buy 1 Get 1",
+  "hotOffer4Subtitle": "Special deal on selected products.",
+  
+  "hotOffer5Title": "Exclusive Discount",
+  "hotOffer5Subtitle": "Members get extra 20% off."
+  
+
+
+  
+
+
+
+}
+
+
+
